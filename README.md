@@ -233,6 +233,8 @@ Scores vary (**3.024–2.942**), showing **personalized ranking**:
 - Includes **less mainstream, critically acclaimed films**
 
 # Performance Comparison
+![Models RMSE Comparison](./image/RMSE.png)
+
 The hybrid model was evaluated on a test set using standard regression metrics:
 
    Model     RMSE      MAE              Description
